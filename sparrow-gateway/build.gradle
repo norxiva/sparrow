@@ -1,0 +1,11 @@
+
+dependencies {
+
+    // spring boot
+    compile 'org.springframework.boot:spring-boot-starter-jetty'
+    compile 'org.springframework.boot:spring-boot-starter-web'
+
+    //jersey
+    compile 'org.springframework.boot:spring-boot-starter-jersey'
+
+}
